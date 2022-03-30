@@ -8,6 +8,7 @@ Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook
 Results
 Deployed Tableau Analysis
 ## Link to dashboard
+https://public.tableau.com/app/profile/rohan.salwi/viz/FinalBikeshreAssignment/TableauNYCCitiBikeshareAssignment
 
 ## New York Citi Bike data visualizations for August 2019
 
