@@ -19,23 +19,24 @@ There is a wide range of the age of the users. Younger users tend to use the ser
 Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 
 ## August Peak Hours
-
+![August Peak hours](https://user-images.githubusercontent.com/96554223/160942854-2ffa01cc-b714-4a20-b54f-110994d7f360.png)
 
 Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
 The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
 ## Checkout times for users
-
+![Checkout Times for Users](https://user-images.githubusercontent.com/96554223/160941773-5d69a7ef-e375-407e-9caa-5eacd2415570.png)
 
 Bikes are mostly checked out for 4 to 6 hours.
 
 ## Checkout times by gender
-
+![Checkout Times by Gender](https://user-images.githubusercontent.com/96554223/160941869-cfc2daf9-2578-4edd-a856-245c2917f5c4.png)
 
 Male users take approximately 3 times more rides than the female users.
 
 ## Trips by weekday and gender
- 
+![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/96554223/160942342-36cc3144-8403-4563-b548-902d5873154f.png)
+![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/96554223/160942385-30812432-fd7b-40b6-8e4b-bcf7423d3ffa.png)
 
 Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
 Weekend rides are highest from 10:00 AM to 7:00 PM.
