@@ -36,7 +36,7 @@ Male users take approximately 3 times more rides than the female users.
 
 ## Trips by weekday and gender
 ![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/96554223/160942342-36cc3144-8403-4563-b548-902d5873154f.png)
-![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/96554223/160942385-30812432-fd7b-40b6-8e4b-bcf7423d3ffa.png)
+![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/96554223/160943265-9daf42e8-25d6-496b-ad69-bce0741e4e4f.png)
 
 Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
 Weekend rides are highest from 10:00 AM to 7:00 PM.
